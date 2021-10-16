@@ -1,0 +1,177 @@
+.head-container {
+	float: left;
+	width: 50%;
+	background-color: #7E7B7B;
+}
+
+#head-right {
+	height: 200px;
+}
+
+.head-container img {
+	margin-left: 100px;
+}
+
+.head-container button {
+	float: right;
+	padding: 10px 15px;
+	background-color: #2d3e50;
+	text-transform: uppercase;
+	color: #ffffff;
+	margin: 10px 10px 0 0;
+}
+
+#logo {
+	height: 200px;
+	width: 250px;
+}
+
+nav ul input {
+	height: 50px;
+	width: 300px;
+	font-size: 20px;
+	float: right;
+}
+
+#link-search {
+	margin-right: 50px;
+	float: right;
+}
+
+
+#search {
+	height: 50px;
+	width: 50px;
+	background-color: #EF5B0C;
+}
+
+nav ul {
+	list-style-type: none;
+	background-color: #2d3e50;
+	width: 100%;
+}
+
+nav ul li {
+	background-color: #2d3e50;
+	text-align: center;
+}
+
+nav ul li a {
+	color: #ffffff;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+#banner {
+	text-align: center;
+}
+
+#banner img {
+	width: 85%;
+	height: 300px;
+}
+
+/*for main*/
+
+main {
+	background-color: #7E7B7B;
+}
+
+main aside {
+	border-top: 2px solid #7E7B7B;
+}
+
+main .all-product {
+	padding-top: 30px;
+	background-color: #7E7B7B;
+}
+
+main #change-policy,
+main #pay-policy,
+main #ship-policy {
+	padding: 10px 0 0 20px;
+}
+
+main #cancel {
+	margin: 0;
+}
+
+main #p-pay {
+	margin: 0;
+}
+
+section {
+	width: 90%;
+	margin: auto;
+}
+
+section h1 {
+	color: #FF4000;
+}
+
+main .image {
+	width: 100%;
+	height: 200px;
+	margin: auto;
+}
+
+main .product-container {
+	border: 2px solid #EF5B0C;
+}
+
+main .product-container span {
+	color: #DF0101;
+}
+
+.productPrice a {
+	color: #000000;
+}
+
+.productPrice span {
+	color: #08088A; 
+	font-size: 15px;
+}
+
+#detail {
+	font-size: 21px;
+	color: #ffffff;
+}
+
+.inner-aside h2 {
+	color: #FF4000;
+}
+
+.inner-aside ul {
+	list-style-type: none;
+}
+
+.inner-aside ul li a {
+	font-size: 20px;
+}
+
+#title-policy {
+	color: #FF4000;
+	margin: 0;
+}
+
+/*register*/
+.row-dky {
+	border-bottom: 5px solid #000000;
+}
+
+/*footer*/
+.footer {
+background-color: #2d3e50;
+}
+
+.footer h3 {
+	color: #ffffff;
+	margin: 0;
+	padding: 15px 20px;
+}
+
+.footer span {
+	color: #ffffff;
+	font-size: 15px;
+	margin: 0 0 0 20px; 
+}
